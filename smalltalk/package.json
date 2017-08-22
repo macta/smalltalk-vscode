@@ -16,7 +16,7 @@
         "languages": [{
             "id": "smalltalk",
             "aliases": ["Smalltalk", "smalltalk"],
-            "extensions": [".st"],
+            "extensions": [".st", ".ston"],
             "configuration": "./smalltalk.configuration.json"
         }],
         "grammars": [{
